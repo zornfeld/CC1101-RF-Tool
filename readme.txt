@@ -1,4 +1,4 @@
-CC1101 Pro RF Tool v0.8.1 — ESP32 + CC1101
+CC1101 Pro RF Tool v0.8.5 — ESP32 + CC1101
 ============================================
 
 ESP32 + CC1101 RF-Tool mit vollständigem WebUI. Frequenz-Scan, Brute Force, 
@@ -98,4 +98,4 @@ Nur für eigene Geräte und autorisierte Penetrationstests!
 Jamming von Frequenzen oder Hacking fremder Systeme ist strafbar.
 
 Lizenz: MIT License
-Version: 0.8.1 (2026)
+Version: 0.8.5 (22.02.2026)
