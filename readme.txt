@@ -42,7 +42,7 @@ INSTALLATION
    - Flash Size: 4MB (Default 4MB with spiffs)
 
 3. Flashen:
-   - CC1101_Pro_RF_Tool_Blue_Edition_0_8.1_FIXED.ino öffnen
+   - CC1101_Pro_RF_Tool_0_8.5.ino öffnen
    - Upload
 
 4. WebUI öffnen:
